@@ -1,0 +1,3 @@
+NAME        READY   UP-TO-DATE   AVAILABLE   AGE     CONTAINERS   IMAGES                      SELECTOR
+flask-app   2/2     2            2           74s     flask-app    flask-postgres-app:latest   app=flask-app
+postgres    1/1     1            1           2m26s   postgres     postgres:13                 app=postgres
